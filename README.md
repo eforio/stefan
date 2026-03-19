@@ -1,6 +1,6 @@
 # Hi, I'm Stefan | AI Product Leader & Serial Founder
 
-[cite_start]I am an AI Product Leader with 10+ years of experience building at the intersection of AI, human behavior, and technology[cite: 7]. [cite_start]I specialize in non-coding PM workflows—using AI to architect and ship full-stack products from 0 to 1.
+I am an AI Product Leader with 10+ years of experience building at the intersection of AI, human behavior, and technology I specialize in non-coding PM workflows—using AI to architect and ship full-stack products from 0 to 1.
 
 ## 🧪 Active Experiments & Products
 Most of my codebase is in private repositories to protect proprietary ontologies and architectures. However, you can see the results of these builds live:
