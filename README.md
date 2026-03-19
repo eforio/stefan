@@ -6,7 +6,7 @@
 Most of my codebase is in private repositories to protect proprietary ontologies and architectures. However, you can see the results of these builds live:
 
 * **[Game of Life](https://gobeyond.ai):** An AI-powered psychological development platform. [cite_start]I architected a multi-agent "system of systems" that maps user psychology across time using a synthesis of Big Five, Attachment Theory, and Ego Development[cite: 21, 22, 23].
-* **[GoBeyond.ai](https://gobeyond.ai):** An experiment in highly structured, AI-readable data. 
+* **[GoBeyondAI](https://gobeyondai.com):** An experiment in highly structured, AI-readable data. 
     * [cite_start]**Result:** Scaled to 15K monthly visitors within 6 months via LLM-referred traffic[cite: 27, 28].
 * **Personality NFT:** An experiment in AI-generated topical authority. 
     * [cite_start]**Result:** Built to 10K monthly organic visitors from a cold start; subsequently acquired into Game of Life[cite: 30, 31].
