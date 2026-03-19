@@ -1,25 +1,23 @@
 # Hi, I'm Stefan | AI Product Leader & Serial Founder
 
-I am an AI Product Leader with 10+ years of experience building at the intersection of AI, human behavior, and technology I specialize in non-coding PM workflows—using AI to architect and ship full-stack products from 0 to 1.
+I am a product leader with 10+ years of experience building at the intersection of AI, human behavior, and technology[cite: 7]. [cite_start]I specialize in **AI-native workflows**, architecting and shipping full-stack products (Next.js, Supabase, Multi-agent LLMs) as a non-coding PM.
 
-## 🧪 Active Experiments & Products
-Most of my codebase is in private repositories to protect proprietary ontologies and architectures. However, you can see the results of these builds live:
+## 🚀 Active Products
+* [cite_start]**[Game of Life](https://gobeyond.ai):** A first-of-its-kind psychological development platform. I designed a proprietary ontology synthesizing Big Five and Ego Development to enable AI to understand users at a foundational level.
 
-* **[Game of Life](https://gobeyond.ai):** An AI-powered psychological development platform. [cite_start]I architected a multi-agent "system of systems" that maps user psychology across time using a synthesis of Big Five, Attachment Theory, and Ego Development[cite: 21, 22, 23].
-* **[GoBeyondAI](https://gobeyondai.com):** An experiment in highly structured, AI-readable data. 
-    * [cite_start]**Result:** Scaled to 15K monthly visitors within 6 months via LLM-referred traffic[cite: 27, 28].
-* **Personality NFT:** An experiment in AI-generated topical authority. 
-    * [cite_start]**Result:** Built to 10K monthly organic visitors from a cold start; subsequently acquired into Game of Life[cite: 30, 31].
+## 🧪 Active Experiments
+* [cite_start]**Personality NFT:** An experiment testing if AI-generated content could build topical authority from a cold start[cite: 30].
+    * [cite_start]**Result:** Scaled to 10K monthly organic visitors and subsequently acquired into Game of Life[cite: 31].
+* [cite_start]**GoBeyondAI (AI Directory):** Testing if structured, AI-readable data becomes a compounding asset for LLM search[cite: 27].
+    * [cite_start]**Result:** 15K monthly visitors within 6 months with significant LLM-referred traffic[cite: 28].
 
-## 💻 Tech Stack & AI-Native Workflow
-[cite_start]I build full-scale products (DB schema, ontologies, and UI) as a non-coding PM using Claude and AI-native workflows[cite: 24].
-* [cite_start]**Frontend/Backend:** Next.js, React, Supabase [cite: 24]
-* [cite_start]**Operations & Analytics:** Stripe, Inngest, PostHog [cite: 24]
-* [cite_start]**AI Architecture:** Multi-agent orchestration, LLM application design, and Prompt Engineering [cite: 16, 23]
+## 🎤 Publications & Events
+* [cite_start]**[Chatbots Life](https://chatbotslife.com):** Founded in 2016; grew to 3M+ annual visitors[cite: 39, 41].
+* [cite_start]**BecomingHuman.AI:** Established early thought leadership in ML, reaching 4M+ annual visitors by 2018[cite: 40, 41].
+* [cite_start]**Chatbot Conference:** Scaled into one of the largest industry events for conversational AI in the US[cite: 41].
 
-## ✍️ Thought Leadership
-* [cite_start]**Founder of [Chatbots Life](https://chatbotslife.com):** Growing it to 3M+ annual visitors and establishing it as a global authority in conversational AI since 2016[cite: 39, 41].
-* [cite_start]**Author of Stefan Speaks:** A philosophical newsletter exploring consciousness and human transformation.
+## 🧠 Thought Leadership
+* [cite_start]**[StefanSpeaks.org](https://stefanspeaks.org):** A philosophical newsletter and platform where I share insights into Consciousness, Psychology, Philosophy, and the future of AI[cite: 53].
 
 ---
-*Note: My GitHub contribution graph includes extensive private activity representing the development of the platforms mentioned above.*
+*Note: My GitHub contribution graph reflects high activity across private repositories dedicated to the platforms and experiments listed above.*
